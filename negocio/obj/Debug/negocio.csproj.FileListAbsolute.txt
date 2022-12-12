@@ -1,0 +1,9 @@
+Z:\Practicando programación\TPFinalNivel2_Cortes\negocio\bin\Debug\negocio.dll
+Z:\Practicando programación\TPFinalNivel2_Cortes\negocio\bin\Debug\negocio.pdb
+Z:\Practicando programación\TPFinalNivel2_Cortes\negocio\bin\Debug\dominio.dll
+Z:\Practicando programación\TPFinalNivel2_Cortes\negocio\bin\Debug\dominio.pdb
+Z:\Practicando programación\TPFinalNivel2_Cortes\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+Z:\Practicando programación\TPFinalNivel2_Cortes\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+Z:\Practicando programación\TPFinalNivel2_Cortes\negocio\obj\Debug\negocio.csproj.CopyComplete
+Z:\Practicando programación\TPFinalNivel2_Cortes\negocio\obj\Debug\negocio.dll
+Z:\Practicando programación\TPFinalNivel2_Cortes\negocio\obj\Debug\negocio.pdb

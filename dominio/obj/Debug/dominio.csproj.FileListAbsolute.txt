@@ -1,0 +1,6 @@
+Z:\Practicando programación\TPFinalNivel2_Cortes\dominio\bin\Debug\dominio.dll
+Z:\Practicando programación\TPFinalNivel2_Cortes\dominio\bin\Debug\dominio.pdb
+Z:\Practicando programación\TPFinalNivel2_Cortes\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+Z:\Practicando programación\TPFinalNivel2_Cortes\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+Z:\Practicando programación\TPFinalNivel2_Cortes\dominio\obj\Debug\dominio.dll
+Z:\Practicando programación\TPFinalNivel2_Cortes\dominio\obj\Debug\dominio.pdb

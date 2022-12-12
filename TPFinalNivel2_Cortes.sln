@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPIntegrador", "TPIntegrador\TPIntegrador.csproj", "{9FB1D86C-73E1-477A-A508-4D2273391500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{EADF033E-0F59-46F6-BBE9-BA6CBD0F71BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{6066EADD-DDEF-4CCB-B68B-C83869A1CABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FB1D86C-73E1-477A-A508-4D2273391500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB1D86C-73E1-477A-A508-4D2273391500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB1D86C-73E1-477A-A508-4D2273391500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB1D86C-73E1-477A-A508-4D2273391500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADF033E-0F59-46F6-BBE9-BA6CBD0F71BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADF033E-0F59-46F6-BBE9-BA6CBD0F71BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADF033E-0F59-46F6-BBE9-BA6CBD0F71BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADF033E-0F59-46F6-BBE9-BA6CBD0F71BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6066EADD-DDEF-4CCB-B68B-C83869A1CABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6066EADD-DDEF-4CCB-B68B-C83869A1CABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6066EADD-DDEF-4CCB-B68B-C83869A1CABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6066EADD-DDEF-4CCB-B68B-C83869A1CABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BE962FB-6285-4849-A814-79EED2154274}
+	EndGlobalSection
+EndGlobal
